@@ -19,5 +19,5 @@ This project uses SSD Mobilenet V2, which is an efficient neural network designe
 2. You have to download SSD Mobilenet V2 before running the code. The code to download it from terminal is:                                 
    $ cd jetson-inference/python/training/detection/ssd                                                                                      
    $ wget https://nvidia.box.com/shared/static/djf5w54rjvpqocsiztzaandq1m3avr7c.pth -O models/mobilenet-v1-ssd-mp-0_675.pth                 
-   $ pip3 install -v -r requirements.txt
-[View a video explanation here](video link)
+   $ pip3 install -v -r requirements.txt                                             
+[video of code running and result](https://youtu.be/6eQUDQEjJFc)
